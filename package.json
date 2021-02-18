@@ -4,6 +4,7 @@
   "description": "mapping app",
   "main": "servers.js",
   "scripts": {
+    "start" : "node servers.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
